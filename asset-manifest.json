@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reacttesting/static/css/main.bba689d8.chunk.css",
+    "main.js": "/reacttesting/static/js/main.3f7203b9.chunk.js",
+    "main.js.map": "/reacttesting/static/js/main.3f7203b9.chunk.js.map",
+    "runtime-main.js": "/reacttesting/static/js/runtime-main.6bf9830c.js",
+    "runtime-main.js.map": "/reacttesting/static/js/runtime-main.6bf9830c.js.map",
+    "static/css/2.8885c1cd.chunk.css": "/reacttesting/static/css/2.8885c1cd.chunk.css",
+    "static/js/2.ee51534e.chunk.js": "/reacttesting/static/js/2.ee51534e.chunk.js",
+    "static/js/2.ee51534e.chunk.js.map": "/reacttesting/static/js/2.ee51534e.chunk.js.map",
+    "index.html": "/reacttesting/index.html",
+    "static/css/2.8885c1cd.chunk.css.map": "/reacttesting/static/css/2.8885c1cd.chunk.css.map",
+    "static/css/main.bba689d8.chunk.css.map": "/reacttesting/static/css/main.bba689d8.chunk.css.map",
+    "static/js/2.ee51534e.chunk.js.LICENSE.txt": "/reacttesting/static/js/2.ee51534e.chunk.js.LICENSE.txt",
+    "static/media/excel.f7ad5380.png": "/reacttesting/static/media/excel.f7ad5380.png",
+    "static/media/fertilizer.36dc7a2a.png": "/reacttesting/static/media/fertilizer.36dc7a2a.png",
+    "static/media/pesticide.60d85633.png": "/reacttesting/static/media/pesticide.60d85633.png",
+    "static/media/react test.7492e8f6.csv": "/reacttesting/static/media/react test.7492e8f6.csv",
+    "static/media/seeds.e2e5368c.png": "/reacttesting/static/media/seeds.e2e5368c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bf9830c.js",
+    "static/css/2.8885c1cd.chunk.css",
+    "static/js/2.ee51534e.chunk.js",
+    "static/css/main.bba689d8.chunk.css",
+    "static/js/main.3f7203b9.chunk.js"
+  ]
+}
